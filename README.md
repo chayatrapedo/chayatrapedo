@@ -1,9 +1,2 @@
 ### Welcome and hello! 👋 
 My name is Chaya Trapedo, and as an honors student at Yeshiva University, I constantly challenge myself to be curious, think creatively, and solve new problems. With a major in Computer Science and minors in Mathematics and Music, I bring a unique interdisciplinary approach to the world of software and data engineering.
-
-I am passionate about data science and machine learning and have had the privilege of working on meaningful and impactful research projects that align with these interests. As a research assistant at the Columbia University Cognitive Neuropsychology Lab, I work with a team of neuroscience researchers to develop software that tests participants’ route learning capacities to stimulate the hippocampus during fMRI screenings. In the summer of 2024, I was honored to be one of ten recipients of my university’s student research grant, enabling me to improve Whisper’s accuracy when processing Yeshivish by building a data pipeline with 1000 hours of audio to finetune the model. These experiences, along with my personal data structure class implementations and transliteration editing projects, have allowed me to cultivate a finer intuition for software engineering and data analysis.
-
-Beyond my academic and research endeavors, I am committed to giving back to the community. Since November 2020, I have been an Academic Coach at UPchieve, tutoring underprivileged students in STEM and humanities subjects, helping them build confidence and develop effective study strategies. As a student assistant at the Office of Student Life, I support first-time on-campus students during move-in and orientation for the Fall and Spring semesters. 
-
-I am eager to bring my technical skills, work ethic, growth mindset, and passion for collaborative work to future professional opportunities.
-
